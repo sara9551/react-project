@@ -1,0 +1,13 @@
+.hero-body {
+  height: 150px !important;
+  padding-top: 0px;
+  background-color: #232e5e !important;
+  text-align: center;
+}
+
+.title {
+  font-size: 60px;
+  color: white;
+  font-weight: bold;
+  padding-top: 50px;
+}
